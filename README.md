@@ -1,6 +1,6 @@
 # GGP-JULIA
 
-Julia version of the Generalized Geometry Projection Framework [1]. It includes as well a Julia version of the Method of Moving Asymptotes (MMA) optimization solver [2]. So far only the test case of the MBB beam is usable, but you can inspirate yourself of its implementation for the other loadcases.
+Written bu Robin GRAPIN with the help of Joseph Morlier, this is the Julia version of the Generalized Geometry Projection Framework [1]. It includes as well a Julia version of the Method of Moving Asymptotes (MMA) optimization solver [2]. So far only the test case of the MBB beam is usable, but you can inspirate yourself of its implementation for the other loadcases.
 
 Import the following packages : 
  + Plots
